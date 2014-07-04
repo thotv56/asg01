@@ -1,7 +1,7 @@
 public class Print {
     int a=9;
     public static void main(String [] args){
-        System.out.print("Ho Ten: Tran Van Tho \t");
+        System.out.print("Ho Ten: Trần Văn Thọ \t");
         System.out.print("MSSV: 11020318 \t");
         System.out.print("Lop: K56CB \t");
         System.out.print("TK GitHub: thotv56 \t");
